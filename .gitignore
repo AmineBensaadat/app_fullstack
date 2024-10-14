@@ -1,0 +1,26 @@
+# Node.js dependencies
+frontend/node_modules/
+frontend/.next/
+
+# Symfony cache and logs
+backend/var/cache/
+backend/var/logs/
+backend/var/sessions/
+
+# Ignore environment files
+*.env
+*.env.local
+*.env.*.local
+
+# Ignore Composer vendor folder
+backend/vendor/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore MacOS specific files
+.DS_Store
+
+# Ignore other OS-specific files
+Thumbs.db
