@@ -43,6 +43,3 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 - **utils/** : Contient les fonctions utilitaires pour faciliter les opérations dans l'application.
 - **package.json** : Fichier de configuration de npm qui liste les dépendances et les scripts de l'application.
 
-### Conclusion
-
-Cela donne une vue d'ensemble claire de la structure de votre projet, facilitant ainsi la navigation pour les autres développeurs qui souhaitent comprendre ou contribuer à votre application. N'hésitez pas à ajouter d'autres informations spécifiques si nécessaire.
